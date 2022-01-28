@@ -1,0 +1,39 @@
+body{
+    background-color: #7710d1;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items:center;
+    
+    gap: 20px;
+}
+
+h1{
+    color: black;
+    font-size: 35px;
+}
+
+div{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#btn{
+    padding: 20px;
+    font-size: 20px;
+    background-color: #8928f1;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: #a86de7;
+}
+
+.displays{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    
+}
